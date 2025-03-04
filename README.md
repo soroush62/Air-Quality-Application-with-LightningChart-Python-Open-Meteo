@@ -1,0 +1,1 @@
+# Air-Quality-Application-with-LightningChart-Python-Open-Meteo
