@@ -232,6 +232,12 @@ model_air_quality.set_scale(1.5).set_model_location(0, 0.3, 0)
 dashboard.open()
 ```
 
+#### **Real-Time and the Next Six Hours Forecasting Dashboard**
+![](Image/real_time.gif)  
+
+#### **Weekly Forecasting Dashboard**
+![](Image/forcasting.gif)  
+
 ### Customizing Visualizations
 LightningChart allows customization such as:
 - **Color Palettes**: Used different gradient colors to show better data intensities.
